@@ -1,0 +1,17 @@
+# Python and notebook metadata
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Downloaded MNIST data, checkpoints, and generated results
+data/
+results/
+*.pth
+*.pt
+
+# Local editor files
+.DS_Store
+.vscode/
+.idea/
